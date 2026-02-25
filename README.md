@@ -4,12 +4,13 @@
 
 - **🌱 I’m currently learning JS**
 
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript">
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Morty4252&show_icons=true&theme=radical" height="150" alt="GitHub Stats">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Morty4252&theme=radical" height="150" alt="GitHub Streak Stats">
